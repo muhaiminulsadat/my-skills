@@ -1,0 +1,43 @@
+{
+  "name": "@muhaiminulsadat/plan-mode",
+  "version": "1.0.0",
+  "description": "Senior technical co-founder & product architect interview skill for all AI coding agents",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "npx skills add . -l"
+  },
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "skills-sh",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "codex"
+  ],
+  "author": "Muhaiminul Islam Sadat <muhaiminulsadat@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhaiminulsadat/plan-mode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhaiminulsadat/plan-mode/issues"
+  },
+  "homepage": "https://github.com/muhaiminulsadat/plan-mode#readme",
+  "skills": [
+    "./SKILL.md"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    ".cursorrules",
+    ".windsurfrules",
+    "agents",
+    "plan-mode-universal-prompt.md"
+  ]
+}

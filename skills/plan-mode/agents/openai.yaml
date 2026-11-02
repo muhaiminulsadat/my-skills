@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Mode: Architect Interview"
+  short_description: "Senior technical co-founder & architect discovery interview before writing code"
+  default_prompt: "Enter Plan Mode as my senior technical co-founder and interview me for a new application."
